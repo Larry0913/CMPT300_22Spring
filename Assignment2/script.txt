@@ -1,0 +1,8 @@
+$VAR=foo
+print $VAR
+pwd
+ls -l
+print 123321
+whoami
+theme red
+log
