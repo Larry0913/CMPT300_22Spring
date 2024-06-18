@@ -1,1 +1,1 @@
-# CMPT300
+# CMPT300 Operating System
